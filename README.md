@@ -52,8 +52,9 @@ While building this project I improved my understanding of:
 * Add accessibility improvements
 
 ---
-
-# Página de Receta – Práctica de HTML y CSS
+<p align="center">
+  <h1 align="center">Página de Receta – Práctica de HTML y CSS</h1>
+</p>
 
 Esta es una página de receta creada como parte de una práctica de desarrollo frontend.
 El objetivo de este proyecto fue practicar el uso de HTML semántico, tipografía y maquetación con CSS recreando un diseño de una página de receta.
