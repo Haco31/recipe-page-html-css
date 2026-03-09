@@ -1,4 +1,9 @@
-# Recipe Page – HTML & CSS Practice
+<p align="center">
+  <h1 align="center">Recipe Page – HTML & CSS Practice</h1>
+  <p align="center">
+    A simple recipe page built to practice semantic HTML and CSS layout.
+  </p>
+</p>
 
 A simple recipe page built as part of a frontend development course.
 The goal of this project was to practice semantic HTML, typography, and CSS layout by recreating a recipe page design.
