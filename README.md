@@ -55,6 +55,12 @@ While building this project I improved my understanding of:
 * Refactor layout using Flexbox
 * Add accessibility improvements
 
+## 🌐 Live Preview
+
+You can see the project here:
+
+[View Project](#)
+
 ---
 <p align="center">
   <h1 align="center">Página de Receta – Práctica de HTML y CSS</h1>
@@ -85,6 +91,12 @@ Durante este proyecto mejoré mi comprensión sobre:
 * Cómo manejar los espacios usando `margin` y `padding`
 * Cómo estilizar listas y pseudo-elementos como `::marker`
 * Cómo organizar el CSS para que sea más legible
+
+## 🌐 Vista previa en vivo
+
+Puedes ver el proyecto aquí:
+
+[Ver proyecto](#)
 
 ## 👨‍💻 Autor
 
