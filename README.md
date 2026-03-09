@@ -1,3 +1,7 @@
+![HTML](https://img.shields.io/badge/HTML5-Structure-orange)
+![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
+![Practice](https://img.shields.io/badge/Project-Practice-green)
+
 <p align="center">
   <h1 align="center">Recipe Page – HTML & CSS Practice</h1>
   <p align="center">
