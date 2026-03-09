@@ -59,7 +59,7 @@ While building this project I improved my understanding of:
 
 You can see the project here:
 
-[View Project](#)
+[View Project](https://haco31.github.io/recipe-page-html-css/)
 
 ---
 <p align="center">
@@ -96,7 +96,7 @@ Durante este proyecto mejoré mi comprensión sobre:
 
 Puedes ver el proyecto aquí:
 
-[Ver proyecto](#)
+[Ver proyecto](https://haco31.github.io/recipe-page-html-css/)
 
 ## 👨‍💻 Autor
 
